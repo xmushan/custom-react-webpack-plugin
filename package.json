@@ -1,7 +1,7 @@
 {
   "name": "custom-react-webpack-plugin",
-  "version": "1.0.0",
-  "description": "一个自定义的webpack，拿来练练手！！",
+  "version": "1.1.0",
+  "description": "自定义脚手架webpack配置",
   "main": "index.js",
   "license": "MIT",
   "author": "xmushan",
